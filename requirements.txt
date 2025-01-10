@@ -1,0 +1,7 @@
+streamlit
+requests
+json
+dotenv
+uuid
+csv
+random
